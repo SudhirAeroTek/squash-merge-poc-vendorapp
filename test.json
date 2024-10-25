@@ -2,11 +2,12 @@
 
 "firstname": "sudhir",
 "lastname": "kilani",
-"pd_fix_1"  "on demand urgency_1",
+"pd_fix_1" : "on demand urgency_1",
 "gender": "male",
 "city": "hyd",
 "street": "hitech",
-"landmark": "statue"
+"landmark": "statue",
+"pd_fix_2" : "on demand urgency_2",
 
 
 }
